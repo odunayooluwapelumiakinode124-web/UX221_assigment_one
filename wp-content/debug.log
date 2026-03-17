@@ -1,0 +1,6 @@
+[17-Mar-2026 01:48:30 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221_assigment_one/.wordpress/wp-admin/includes/ajax-actions.php on line 4587
+[17-Mar-2026 01:48:33 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221_assigment_one/.wordpress/wp-includes/class-wp-admin-bar.php on line 231
+[17-Mar-2026 01:48:38 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221_assigment_one/.wordpress/wp-admin/edit-form-blocks.php on line 231
+[17-Mar-2026 01:49:18 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221_assigment_one/.wordpress/wp-admin/includes/ajax-actions.php on line 4587
+[17-Mar-2026 01:49:21 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221_assigment_one/.wordpress/wp-admin/includes/ajax-actions.php on line 4587
+[17-Mar-2026 01:49:22 UTC] PHP Fatal error:  Out of memory (allocated 31457280 bytes) (tried to allocate 2097152 bytes) in /workspaces/UX221_assigment_one/.wordpress/wp-admin/includes/ajax-actions.php on line 4587
